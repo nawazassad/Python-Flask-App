@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+ <head>
+ <title>Sentiment</title>
+ </head>
+ <body>
+<h2>Enter Your Comment:</h2>
+<form method=post action="/results">
+ <dl>
+ {{ (form.comment) }}
+ </dl>
+ <div>
+ <input type=submit value='Submit' name='submit_btn'>
+ </div>
+</form>
+</body>
+</html>

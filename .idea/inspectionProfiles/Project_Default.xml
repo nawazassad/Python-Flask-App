@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="MileStone_2.app.author" />
+          <option value="util2.data2" />
+          <option value="code.security.user" />
+          <option value="code.app.security" />
+          <option value="User" />
+          <option value="authenticate" />
+          <option value="identity" />
+          <option value="code.app.name" />
+          <option value="code.app.user" />
+          <option value="UserRegister" />
+          <option value="code.user.data" />
+          <option value="UserRegisteration" />
+          <option value="UserRegistration" />
+          <option value="code.app.item" />
+          <option value="ItemList" />
+          <option value="Item" />
+          <option value="pymongo" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
